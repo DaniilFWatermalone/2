@@ -1,9 +1,5 @@
 Интересные медоты и подходы к разработке веб приложени
 
-
-```markdown
-# Методичка по проекту "Ресторанные бронирования"
-
 ## Содержание
 1. [Файл стилей (CSS)](#stylescss)
 2. [PHP файлы](#php-файлы)
@@ -21,7 +17,7 @@
 ---
 
 ## styles.css {#stylescss}
-
+```markdown
 ```css
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 
